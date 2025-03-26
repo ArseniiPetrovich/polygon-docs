@@ -73,6 +73,7 @@ Public RPCs may have rate limits or traffic restrictions. For dedicated free RPC
 - [Ankr](https://www.ankr.com/)
 - [Blast (Bware Labs)](https://blastapi.io/)
 - [BlockPI](https://blockpi.io/)
+- [Chainlove](https://polygon.chain.love/)
 - [Chainnodes](https://www.chainnodes.org/)
 - [Chainstack](https://chainstack.com/build-better-with-polygon/)
 - [DataHub (Figment)](https://datahub.figment.io)
